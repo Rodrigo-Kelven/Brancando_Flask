@@ -37,6 +37,15 @@ Instale Brincando_Flask
   pip install -r requirements.txt
 ```
 
+## Deploy
+
+Para fazer o deploy desse projeto rode
+
+```bash
+  python3 app.py
+```
+
+
 ## Etiquetas
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
