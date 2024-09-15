@@ -8,6 +8,25 @@ Observação: "contem muitos comentários porque prefiro deixar meu código bem 
 
 Utilize "venv", é uma otima pratica para 'isolar' seu projeto, você não vai querer que as dependenicas do seu projeto entrem em conflito com outras dependenicas  por versões diferentes e etc...
 
+
+## Instalação da venv
+
+Instale e faça sua  venv
+
+```bash
+  python3 -m venv (nome da sua venv)
+
+  Windows: .\(nome da sua venv)\Script\activate
+  Linux: source venv/bin/activate
+
+  Ex:
+  python3 -m venv venv
+
+  Windows: .\venv\Script\activate
+  Linux: source venv/bin/activate
+```
+    
+
 ## Instalação
 
 Instale Brincando_Flask
